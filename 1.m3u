@@ -26,11 +26,4 @@ http://139.59.55.243/sunnxt/live.php?c=9023&e=.m3u8
 http://istreamiptv.gq/api1cdn/hd/auth.php
 #EXTINF:-1 group-title="Sneh iStreamtv | Astro" tvg-logo="https://img2.pngio.com/star-vijay-logopedia-fandom-star-vijay-png-600_365.png",STAR VIJAY TV HD
 http://istreamiptv.gq/api1cdn/hd/vj/auth.php
-#EXTINF:-1 group-title="Sneh iStreamtv | Astro" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/star-vijay-uk-white.png",Star Vijay UK HD
-http://istreamiptv.gq/api1cdn/hd/vjuk/auth.php
-#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_STAR_VIJAY_HD
-http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126964
-#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_VIJAY_SUPER
-http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126971
-#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_STAR_VIJAY_UK
-http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126972
+
