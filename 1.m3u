@@ -41,3 +41,19 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/EDPdahO.png",Star Movies Select HD
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo=" "  group-title="English Movies",HBO (ASIA)
+https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
+#EXTINF:-1 ch-id="HBO+ (UK)" tvg-logo=" "  group-title="English Movies",HBO+ (UK)
+http://213.151.233.20:8000/dna-6129-tv-pc/hls/4001v102.m3u8
+#EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://1.bp.blogspot.com/-vSAExx8PwY0/YNHLA9IBGgI/AAAAAAAAAAU/VIjHTa-dX0EWHo6QspfSgKnqLlcnJ1i7wCLcBGAsYHQ/w200-h120/images.png"   group-title="English Movies",HBO (ASIA)
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF: -1 tvg-id="833" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HBO_HD.png" group-title="English Movies", HBO HD
+http://manastv.xyz/m3u8.php?c=HBO_HD&q=800&e=junk.m3u8
+
+#EXTINF: -1 tvg-id="762" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="English Movies", Sony Pix HD
+http://manastv.xyz/m3u8.php?c=Sony_Pix_HD&q=800&e=junk.m3u8
+
+#EXTINF: -1 tvg-id="834" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/WB.png" group-title="English Movies", WB
+http://manastv.xyz/m3u8.php?c=WB&q=800&e=junk.m3u8
