@@ -20,10 +20,9 @@ http://139.59.55.243/sunnxt/live.php?c=32138&e=.m3u8
 http://139.59.55.243/sunnxt/live.php?c=26567&e=.m3u8
 #EXTINF:-1 tvg-id="9023" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_30878292-a63e-4414-acbc-902c0afb4b9b.jpg" group-title="Tamil Tv",Adithya TV
 http://139.59.55.243/sunnxt/live.php?c=9023&e=.m3u8
-#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_STAR_VIJAY_HD
-#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_VIJAY_SUPER
-#EXTINF:-1 group-title="Sneh iStreamtv | Astro" tvg-logo="https://img2.pngio.com/star-vijay-logopedia-fandom-star-vijay-png-600_365.png",Star Vijay HD
-http://istreamiptv.gq/api1cdn/hd/auth.php
-#EXTINF:-1 group-title="Sneh iStreamtv | Astro" tvg-logo="https://img2.pngio.com/star-vijay-logopedia-fandom-star-vijay-png-600_365.png",STAR VIJAY TV HD
-http://istreamiptv.gq/api1cdn/hd/vj/auth.php
-
+#EXTINF:-1 ,Sneh TAMIL (HD)- SUN TV HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40828
+#EXTINF:-1 ,Sneh TAMIL (HD)- STAR VIJAY HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40824
+#EXTINF:-1 ,Sneh TAMIL (HD)- ZEE TAMIL HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40835
