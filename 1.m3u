@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="14020" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="Sneh SunNXT",Sun TV HD
+#EXTINF:-1 tvg-id="14020" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="Sun Network",Sun TV HD
 http://139.59.55.243/sunnxt/live.php?c=14020&e=.m3u8
-#EXTINF:-1 tvg-id="9013" tvg-logo="https://sund-images.sunnxt.com/9013/1000x1000_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="Sneh SunNXT",Sun Music HD
+#EXTINF:-1 tvg-id="9013" tvg-logo="https://sund-images.sunnxt.com/9013/1000x1000_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="Sun Network",Sun Music HD
 http://139.59.55.243/sunnxt/live.php?c=9013&e=.m3u8
-#EXTINF:-1 tvg-id="38926" tvg-logo="https://sund-images.sunnxt.com/38926/1000x1000_SunNews_38926_5921657d-45b6-445e-9e26-f0cd67be9d39.jpg" group-title="Sneh SunNXT",Sun News
+#EXTINF:-1 tvg-id="38926" tvg-logo="https://sund-images.sunnxt.com/38926/1000x1000_SunNews_38926_5921657d-45b6-445e-9e26-f0cd67be9d39.jpg" group-title="Sun Network",Sun News
 http://139.59.55.243/sunnxt/live.php?c=38926&e=.m3u8
-#EXTINF:-1 tvg-id="9016" tvg-logo="https://sund-images.sunnxt.com/9016/1000x1000_4522d18b-56cc-42be-8365-c54e21a6e394.jpg" group-title="Sneh SunNXT",Sun TV
+#EXTINF:-1 tvg-id="9016" tvg-logo="https://sund-images.sunnxt.com/9016/1000x1000_4522d18b-56cc-42be-8365-c54e21a6e394.jpg" group-title="Sun Network",Sun TV
 http://139.59.55.243/sunnxt/live.php?c=9016&e=.m3u8
-#EXTINF:-1 tvg-id="26569" tvg-logo="https://sund-images.sunnxt.com/26569/1000x1000_SunLife_26569_1e6604fc-2df9-4598-8f1c-dcbda46254ab.jpg" group-title="Sneh SunNXT",Sun Life
+#EXTINF:-1 tvg-id="26569" tvg-logo="https://sund-images.sunnxt.com/26569/1000x1000_SunLife_26569_1e6604fc-2df9-4598-8f1c-dcbda46254ab.jpg" group-title="Sun Network",Sun Life
 http://139.59.55.243/sunnxt/live.php?c=26569&e=.m3u8
-#EXTINF:-1 tvg-id="9025" tvg-logo="https://sund-images.sunnxt.com/9025/1000x1000_c8897f06-b2c0-4856-9d81-02181b821cf7.jpg" group-title="Sneh SunNXT",Sun Music
+#EXTINF:-1 tvg-id="9025" tvg-logo="https://sund-images.sunnxt.com/9025/1000x1000_c8897f06-b2c0-4856-9d81-02181b821cf7.jpg" group-title="Sun Network",Sun Music
 http://139.59.55.243/sunnxt/live.php?c=9025&e=.m3u8
-#EXTINF:-1 tvg-id="26566" tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="Sneh SunNXT",KTV HD
+#EXTINF:-1 tvg-id="26566" tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="Sun Network",KTV HD
 http://139.59.55.243/sunnxt/live.php?c=26566&e=.m3u8
-#EXTINF:-1 tvg-id="32138" tvg-logo="https://sund-images.sunnxt.com/32138/1000x1000_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg" group-title="Sneh SunNXT",KTV
+#EXTINF:-1 tvg-id="32138" tvg-logo="https://sund-images.sunnxt.com/32138/1000x1000_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg" group-title="Sun Network",KTV
 http://139.59.55.243/sunnxt/live.php?c=32138&e=.m3u8
-#EXTINF:-1 tvg-id="26567" tvg-logo="https://sund-images.sunnxt.com/26567/1000x1000_c103e59e-217e-44fd-a087-651fcf8e6278.jpg" group-title="Sneh SunNXT",Chutti TV
+#EXTINF:-1 tvg-id="26567" tvg-logo="https://sund-images.sunnxt.com/26567/1000x1000_c103e59e-217e-44fd-a087-651fcf8e6278.jpg" group-title="Sun Network",Chutti TV
 http://139.59.55.243/sunnxt/live.php?c=26567&e=.m3u8
-#EXTINF:-1 tvg-id="9023" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_30878292-a63e-4414-acbc-902c0afb4b9b.jpg" group-title="Sneh SunNXT",Adithya TV
+#EXTINF:-1 tvg-id="9023" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_30878292-a63e-4414-acbc-902c0afb4b9b.jpg" group-title="Sun Network",Adithya TV
 http://139.59.55.243/sunnxt/live.php?c=9023&e=.m3u8
