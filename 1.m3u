@@ -17,7 +17,7 @@ http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87329
 #EXTINF:-1 tvg-ID="" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg"  group-title="Tamil Tv",SUN TV HD #5
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/86065
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg"  group-title="Tamil Tv",SUN TV HD #5
+#EXTINF:-1 tvg-ID="" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg"  group-title="Tamil Tv",SUN TV HD #6
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/40828
 
 #====================================================VIJAY TV========================================================
@@ -97,24 +97,29 @@ http://221.120.204.4:80/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #====================================================HBO========================================================
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="English Movies",HBO
+https://list.iptvcat.com/my_list/s/874a9d6e3271e5d8b3ef43e6c9e2fdce.m3u8
 
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO #2
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="English Movies",HBO (MY)
-https://gratismkctv.net/film/hbo.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO (ASIA)
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8
+
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO (ASIA) #2
+https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 
 #====================================================SONY PIX========================================================
-
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="English Movies",SONY PIX HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
 #====================================================&flix========================================================
 
-
-#EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/&flix-hd.gif" group-title="English Movies",&flix HD
+#EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/&flix-hd.gif" group-title="English Movies",&flix HD #1
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/&flix-hd.gif" tvg-chno="10" group-title="English Movies",&flix HD
+#EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/&flix-hd.gif" group-title="English Movies",&flix HD #2
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/86189
 
 
