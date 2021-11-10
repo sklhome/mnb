@@ -2,38 +2,45 @@
 
 #====================================================Sun TV========================================================
 
-#EXTINF:-1 tvg-id="14020" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="Tamil Tv",Sun TV HD #1
+#EXTINF:-1 tvg-id="14020" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="Tamil Tv",Sun TV HD 
 http://139.59.55.243/sunnxt/live.php?c=14020&e=.m3u8
 
-#EXTINF:-1 tvg-id="9016" tvg-logo="https://sund-images.sunnxt.com/9016/1000x1000_4522d18b-56cc-42be-8365-c54e21a6e394.jpg" group-title="Tamil Tv",Sun TV #2
+#EXTINF:-1 tvg-id="9016" tvg-logo="https://sund-images.sunnxt.com/9016/1000x1000_4522d18b-56cc-42be-8365-c54e21a6e394.jpg" group-title="Tamil Tv",Sun TV 
 http://139.59.55.243/sunnxt/live.php?c=9016&e=.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg"  group-title="Tamil Tv",SUN TV FHD #3
+#EXTINF:-1 tvg-ID="" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg"  group-title="Tamil Tv",SUN TV FHD 
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/86180
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg"  group-title="Tamil Tv",SUN TV HD #4
+#EXTINF:-1 tvg-ID="" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg"  group-title="Tamil Tv",SUN TV HD 
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87329
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg"  group-title="Tamil Tv",SUN TV HD #5
+#EXTINF:-1 tvg-ID="" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg"  group-title="Tamil Tv",SUN TV HD 
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/86065
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg"  group-title="Tamil Tv",SUN TV HD #6
+#EXTINF:-1 tvg-ID="" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg"  group-title="Tamil Tv",SUN TV HD
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/40828
 
 #====================================================VIJAY TV========================================================
 
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/star-vijay-logopedia-fandom-star-vijay-png-600_365.png" tvg-chno="1" group-title="Tamil Tv",STAR VIJAY HD 
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87265
 
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/star-vijay-logopedia-fandom-star-vijay-png-600_365.png" tvg-chno="1" group-title="Tamil Tv",Star Vijay HD 
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/52867
+
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/star-vijay-logopedia-fandom-star-vijay-png-600_365.png" tvg-chno="1" group-title="Tamil Tv",STAR VIJAY TV HD 
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/40824
 
 #====================================================ZEE TAMIL========================================================
 
 
-#EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee-Tamil-HD-Logo.png" tvg-chno="1" group-title="Tamil Tv",  Zee Tamil HD #1
+#EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee-Tamil-HD-Logo.png" tvg-chno="1" group-title="Tamil Tv",  Zee Tamil HD 
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86079
 
-#EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee-Tamil-HD-Logo.png" tvg-chno="1" group-title="Tamil Tv",  Zee Tamil HD #2
+#EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee-Tamil-HD-Logo.png" tvg-chno="1" group-title="Tamil Tv",  Zee Tamil HD 
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/40834
 
-#EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee-Tamil-HD-Logo.png" tvg-chno="1" group-title="Tamil Tv",  Zee Tamil HD #3
+#EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee-Tamil-HD-Logo.png" tvg-chno="1" group-title="Tamil Tv",  Zee Tamil HD 
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/40835
 
 
@@ -41,25 +48,25 @@ http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/40835
 
 
 
-#EXTINF:-1 tvg-id="32138" tvg-logo="https://sund-images.sunnxt.com/32138/1000x1000_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg" tvg-chno="2" group-title="Tamil Tv",KTV #1
+#EXTINF:-1 tvg-id="32138" tvg-logo="https://sund-images.sunnxt.com/32138/1000x1000_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg" tvg-chno="2" group-title="Tamil Tv",KTV 
 http://139.59.55.243/sunnxt/live.php?c=32138&e=.m3u8
-#EXTINF:-1 tvg-id="26566" tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg" tvg-chno="2" group-title="Tamil Tv",KTV HD #2
+#EXTINF:-1 tvg-id="26566" tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg" tvg-chno="2" group-title="Tamil Tv",KTV HD 
 http://139.59.55.243/sunnxt/live.php?c=26566&e=.m3u8
 
 #====================================================VIJAY SUPER========================================================
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Vijay_super_logo.png" tvg-chno="2" group-title="Tamil Tv",Vijay Super #1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Vijay_super_logo.png" tvg-chno="2" group-title="Tamil Tv",Vijay Super 
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/40832
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Vijay_super_logo.png" tvg-chno="2" group-title="Tamil Tv",Vijay Super #2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Vijay_super_logo.png" tvg-chno="2" group-title="Tamil Tv",Vijay Super 
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87251
 
 #====================================================ZEE THIRAI========================================================
 
 
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-224/channel_web/1170x658withlogo_334138193.png" tvg-chno="2" group-title="Tamil Tv",Zee Thirai #1
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-224/channel_web/1170x658withlogo_334138193.png" tvg-chno="2" group-title="Tamil Tv",Zee Thirai 
 https://sneh-zee5tv-1.up.railway.app?c=0-9-224
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-224/channel_web/1170x658withlogo_334138193.png" tvg-chno="2" group-title="Tamil Tv",Zee Thirai #2
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-224/channel_web/1170x658withlogo_334138193.png" tvg-chno="2" group-title="Tamil Tv",Zee Thirai 
 https://sneh-zee5tv-1.up.railway.app?c=0-9-224
 
 
@@ -93,13 +100,13 @@ http://221.120.204.4:80/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="English Movies",HBO
 https://gratismkctv.net/film/hbo.m3u8
 
-#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO #2
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/5.m3u8
 
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO (ASIA)
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO (ASIA) #2
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO (ASIA) 
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 
 #====================================================Warner TV========================================================
@@ -114,17 +121,17 @@ https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
 #====================================================&flix========================================================
 
-#EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/&flix-hd.gif" group-title="English Movies",&flix HD #1
+#EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/&flix-hd.gif" group-title="English Movies",&flix HD 
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/&flix-hd.gif" group-title="English Movies",&flix HD #2
+#EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/&flix-hd.gif" group-title="English Movies",&flix HD 
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/86189
 
 
 #====================================================STAR SPORTS 1========================================================
 
 
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-1-logo-300x300.jpg" tvg-chno="5" group-title="Sports TV",STAR SPORTS 1 FHD #1
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-1-logo-300x300.jpg" tvg-chno="5" group-title="Sports TV",STAR SPORTS 1 FHD 
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/83997
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-1-logo-300x300.jpg" tvg-chno="5" group-title="Sports TV",STAR SPORTS 1 FHD #2
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-1-logo-300x300.jpg" tvg-chno="5" group-title="Sports TV",STAR SPORTS 1 FHD 
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/83998
