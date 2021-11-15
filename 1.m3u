@@ -44,6 +44,6 @@ http://203.154.243.89:11205
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" tvg-chno="130" group-title="English Movies",SONY PIX HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/&flix-hd.gif" tvg-chno="140" group-title="English Movies",&flix HD
-https://z5ams.akamaized.net/andflixhd/index.m3u8?hdnts=st=1636986647~exp=1636989647~acl=/andflixhd/index.m3u8*~hmac=e9108613d1d6bee44314631d9170728f8f0278cdb5288070566c9bd6730f5b72
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8	
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-chno="150" group-title="English Movies",&Prive HD
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-privéhd
