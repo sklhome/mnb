@@ -7,8 +7,10 @@ http://139.59.55.243/sunnxt/live.php?c=9016&e=.m3u8
 http://139.59.55.243/sunnxt/live.php?c=26566&e=.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/32138/1000x1000_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg" tvg-chno="31" group-title="Tamil Tv",KTV
 http://139.59.55.243/sunnxt/live.php?c=32138&e=.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-224/channel_web/1170x658withlogo_334138193.png" tvg-chno="40" group-title="Tamil Tv",Zee Thirai
-https://sneh-zee5tv-1.up.railway.app?c=0-9-224
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_web/1170x658_1250786368.png" tvg-chno="40" group-title="Tamil Tv",Zee Tamil HD
+http://sneh-zee5tv-production.up.railway.app/?c=0-9-zeetamil
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-224/channel_web/1170x658withlogo_334138193.png" tvg-chno="41" group-title="Tamil Tv",Zee Thirai
+http://sneh-zee5tv-production.up.railway.app/?c=0-9-224
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9013/1000x1000_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" tvg-chno="70" group-title="Tamil Tv",Sun Music HD
 http://139.59.55.243/sunnxt/live.php?c=9013&e=.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/38926/1000x1000_SunNews_38926_5921657d-45b6-445e-9e26-f0cd67be9d39.jpg" tvg-chno="71" group-title="Tamil Tv",Sun News
@@ -43,5 +45,5 @@ http://203.154.243.89:11205
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/&flix-hd.gif" tvg-chno="140" group-title="English Movies",&flix HD
 http://sneh-zee5tv-production.up.railway.app/?c=0-9-channel_2105335046
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-chno="150" group-title="English Movies",&Prive HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-chno="141" group-title="English Movies",&Prive HD
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-privéhd
