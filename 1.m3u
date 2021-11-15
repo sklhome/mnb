@@ -45,5 +45,7 @@ http://203.154.243.89:11205
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/&flix-hd.gif" tvg-chno="140" group-title="English Movies",&flix HD
 http://sneh-zee5tv-production.up.railway.app/?c=0-9-channel_2105335046
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-chno="141" group-title="English Movies",&Prive HD
+#EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/&flix-hd.gif" tvg-chno="141" group-title="English Movies",&flix HD
+http://182.182.101.49:8000/play/a089/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-chno="145" group-title="English Movies",&Prive HD
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-privéhd
