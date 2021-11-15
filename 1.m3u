@@ -3,13 +3,17 @@
 http://139.59.55.243/sunnxt/live.php?c=14020&e=.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9016/1000x1000_4522d18b-56cc-42be-8365-c54e21a6e394.jpg" tvg-chno="2" group-title="Tamil Tv",Sun TV 
 http://139.59.55.243/sunnxt/live.php?c=9016&e=.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg" tvg-chno="30" group-title="Tamil Tv",KTV HD
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg" tvg-chno="3" group-title="Tamil Tv",KTV HD
 http://139.59.55.243/sunnxt/live.php?c=26566&e=.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/32138/1000x1000_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg" tvg-chno="31" group-title="Tamil Tv",KTV
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/32138/1000x1000_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg" tvg-chno="4" group-title="Tamil Tv",KTV
 http://139.59.55.243/sunnxt/live.php?c=32138&e=.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/vijay-hd-logo-300x300.jpg" tvg-chno="4" group-title="Tamil Tv",VIJAY TV HD
+http://58.27.219.166:8000/play/a0ds/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_web/1170x658_1250786368.png" tvg-chno="40" group-title="Tamil Tv",Zee Tamil HD
 http://sneh-zee5tv-production.up.railway.app/?c=0-9-zeetamil
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-224/channel_web/1170x658withlogo_334138193.png" tvg-chno="41" group-title="Tamil Tv",Zee Thirai
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_web/1170x658_1250786368.png" tvg-chno="41" group-title="Tamil Tv",Zee Tamil HD
+http://58.27.219.166:8000/play/a0du/index.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-224/channel_web/1170x658withlogo_334138193.png" tvg-chno="45" group-title="Tamil Tv",Zee Thirai
 http://sneh-zee5tv-production.up.railway.app/?c=0-9-224
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9013/1000x1000_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" tvg-chno="70" group-title="Tamil Tv",Sun Music HD
 http://139.59.55.243/sunnxt/live.php?c=9013&e=.m3u8
@@ -23,19 +27,23 @@ http://139.59.55.243/sunnxt/live.php?c=9025&e=.m3u8
 http://139.59.55.243/sunnxt/live.php?c=26567&e=.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_30878292-a63e-4414-acbc-902c0afb4b9b.jpg" tvg-chno="75" group-title="Tamil Tv",Adithya TV
 http://139.59.55.243/sunnxt/live.php?c=9023&e=.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoL-6TOfzK0ZPMMBM43K1L4h-PpeVNKzbJWKblde-jgG7MMyfg6svWllzW_CmM6wGAvSo&usqp=CAU" tvg-chno="100" group-title="English Movies",Star Movies HD
+#EXTINF:-1 tvg-logo="https://content.osn.com/bob/745x419/STM.jpg" tvg-chno="100" group-title="English Movies",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/1923/brand.gif?itok=xh9Oc6rW" tvg-chno="101" group-title="English Movies",STAR MOVIES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoL-6TOfzK0ZPMMBM43K1L4h-PpeVNKzbJWKblde-jgG7MMyfg6svWllzW_CmM6wGAvSo&usqp=CAU" tvg-chno="101" group-title="English Movies",Star Movies HD
+http://182.182.101.49:8000/play/a090/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/1923/brand.gif?itok=xh9Oc6rW" tvg-chno="104" group-title="English Movies",STAR MOVIES
 http://221.120.204.4:80/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-chno="110" group-title="English Movies",HBO
 https://gratismkctv.net/film/hbo.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-chno="111" group-title="English Movies",HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/5.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBOFamily.us.png" tvg-chno="112" group-title="English Movies",HBO Family
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-chno="112" group-title="English Movies",HBO HD
+http://177.91.162.202:8000/play/a04b/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBOFamily.us.png" tvg-chno="114" group-title="English Movies",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-chno="113" group-title="English Movies",HBO (ASIA)
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBOFamily.us.png" tvg-chno="111" group-title="English Movies",HBO Family
+http://177.91.162.202:8000/play/HBOFamily/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-chno="116" group-title="English Movies",HBO (ASIA)
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-chno="114" group-title="English Movies",HBO (ASIA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-chno="117" group-title="English Movies",HBO (ASIA)
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/06052020/Paramount_Movie_Channel_190x190.png?raw=true" tvg-chno="120" group-title="English Movies",Paramount Movie Channel
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -49,3 +57,11 @@ http://sneh-zee5tv-production.up.railway.app/?c=0-9-channel_2105335046
 http://182.182.101.49:8000/play/a089/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-chno="145" group-title="English Movies",&Prive HD
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-privéhd
+#EXTINF:-1 tvg-logo="https://farm8.staticflickr.com/7143/6530259713_75a3603e01_o.jpg" tvg-chno="150" group-title="English Movies",FOX Movies HD
+http://85.241.119.59:8080/play/a022/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" tvg-chno="160" group-title="English Movies",MN+ HD
+http://58.27.219.166:8000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" tvg-chno="165" group-title="English Movies",MNX
+http://182.182.101.49:8000/play/a08t/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/68572_movies-now.png.jpg" tvg-chno="170" group-title="English Movies",MOVIES NOW
+http://182.182.101.49:8000/play/a08u/index.m3u8
