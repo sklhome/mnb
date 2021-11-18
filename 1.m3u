@@ -10,11 +10,11 @@ http://139.59.55.243/sunnxt/live.php?c=32138&e=.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/vijay-hd-logo-300x300.jpg" tvg-chno="4" group-title="Tamil Tv",VIJAY TV HD
 http://58.27.219.166:8000/play/a0ds/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_web/1170x658_1250786368.png" tvg-chno="40" group-title="Tamil Tv",Zee Tamil HD
-http://sneh-zee5tv-production.up.railway.app/?c=0-9-zeetamil
+https://sneh-z5api.herokuapp.com/?c=0-9-zeetamil
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_web/1170x658_1250786368.png" tvg-chno="41" group-title="Tamil Tv",Zee Tamil HD
 http://58.27.219.166:8000/play/a0du/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-224/channel_web/1170x658withlogo_334138193.png" tvg-chno="45" group-title="Tamil Tv",Zee Thirai
-http://sneh-zee5tv-production.up.railway.app/?c=0-9-224
+https://sneh-z5api.herokuapp.com/?c=0-9-224
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9013/1000x1000_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" tvg-chno="70" group-title="Tamil Tv",Sun Music HD
 http://139.59.55.243/sunnxt/live.php?c=9013&e=.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/38926/1000x1000_SunNews_38926_5921657d-45b6-445e-9e26-f0cd67be9d39.jpg" tvg-chno="71" group-title="Tamil Tv",Sun News
