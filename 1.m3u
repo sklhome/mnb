@@ -27,10 +27,14 @@ http://139.59.55.243/sunnxt/live.php?c=9025&e=.m3u8
 http://139.59.55.243/sunnxt/live.php?c=26567&e=.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_30878292-a63e-4414-acbc-902c0afb4b9b.jpg" tvg-chno="75" group-title="Tamil Tv",Adithya TV
 http://139.59.55.243/sunnxt/live.php?c=9023&e=.m3u8
+#EXTINF:-1 tvg-logo="https://content.osn.com/bob/745x419/STM.jpg" tvg-chno="99" group-title="English Movies",Star Movies HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://content.osn.com/bob/745x419/STM.jpg" tvg-chno="100" group-title="English Movies",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoL-6TOfzK0ZPMMBM43K1L4h-PpeVNKzbJWKblde-jgG7MMyfg6svWllzW_CmM6wGAvSo&usqp=CAU" tvg-chno="101" group-title="English Movies",Star Movies HD
 http://182.182.101.49:8000/play/a090/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoL-6TOfzK0ZPMMBM43K1L4h-PpeVNKzbJWKblde-jgG7MMyfg6svWllzW_CmM6wGAvSo&usqp=CAU" tvg-chno="102" group-title="English Movies",Star Movies HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/1923/brand.gif?itok=xh9Oc6rW" tvg-chno="104" group-title="English Movies",STAR MOVIES
 http://221.120.204.4:80/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-chno="110" group-title="English Movies",HBO
