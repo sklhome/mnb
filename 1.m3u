@@ -62,7 +62,7 @@ http://182.182.101.49:8000/play/a089/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-chno="145" group-title="English Movies",&Prive HD
 https://sneh-z5api.herokuapp.com/?c=0-9-privéhd
 #EXTINF:-1 tvg-logo="https://farm8.staticflickr.com/7143/6530259713_75a3603e01_o.jpg" tvg-chno="150" group-title="English Movies",FOX Movies HD
-http://170.239.150.222:8000/play/a097/index.m3u8
+http://93.157.62.180:80/FoxMovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" tvg-chno="160" group-title="English Movies",MN+ HD
 http://58.27.219.166:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" tvg-chno="165" group-title="English Movies",MNX
