@@ -8,7 +8,7 @@ http://139.59.55.243/sunnxt/live.php?c=26566&e=.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/32138/1000x1000_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg" tvg-chno="4" group-title="Tamil Tv",KTV
 http://139.59.55.243/sunnxt/live.php?c=32138&e=.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/vijay-hd-logo-300x300.jpg" tvg-chno="4" group-title="Tamil Tv",VIJAY TV HD
-http://58.27.219.166:8000/play/a0ds/index.m3u8
+https://last.gcdn.co/IND280/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_web/1170x658_1250786368.png" tvg-chno="40" group-title="Tamil Tv",Zee Tamil HD
 https://sneh-z5api.herokuapp.com/?c=0-9-zeetamil
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_web/1170x658_1250786368.png" tvg-chno="41" group-title="Tamil Tv",Zee Tamil HD
